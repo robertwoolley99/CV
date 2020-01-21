@@ -63,6 +63,9 @@ Europe's leading programming bootcamp, teaching good practices as well as coding
 * Loughborough had an enlightened policy regarding undergraduate access to IT resources - resulting in me spending far too much time playing around on the university's HP-UX minicomputer gaining knowledge of UNIX, and the pre-Web Internet.  I also got exposed to FORTRAN77... (I still prefer Sinclair Basic - learnt on a ZX81 and a ZX Spectrum).
 
 ## <a name="Experience"></a> Experience.
+<p align="center">
+<a href="https://www.linkedin.com/in/robertwoolley/">
+<img src="./images/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
 I worked in a broad range of functions within transport and construction between 1991 and 2019.  This included:  
 
 * Using analytical skills in engineering - basic traffic and road safety engineering at Acer Consultants Ltd between 1993 and 1995.   
