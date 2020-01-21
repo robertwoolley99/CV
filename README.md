@@ -24,14 +24,14 @@ I also have extensive experience within transport and the the urban/built enviro
 
 <b>Tech skills:</b> Ruby, Rails, Sinatra, RSpec, Capybara, Node.js, Express, HTML, CSS, JavaScript, Jest, jQuery, Jasmine, PostgreSQL
 
-## <a name="Projects"></a>Projects
+## <a name="Projects"></a>Projects.
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
 |<a href="https://github.com/Fantastic-Makers-Group-2-final-Project/Route_Around">Route Around</a> | Final group project at Makers Academy. Provides circular routes for joggers and dog walkers. | 2 weeks | React, Node.js, Express, Google Maps |Jest, Jasmine, Travis,  Heroku |
 |<a href="https://github.com/robertwoolley99/acebook-greenbook">Greenbook</a> | A Facebook clone written at Makers as a group project | 2 weeks | Ruby on Rails, CSS bootstrap, HTML | Capybara, RSpec, Selenium-webdriver, Travis, Codeclimate, Heroku |
   |<a href="https://github.com/robertwoolley99/bowling-challenge">Bowling challenge</a> | Code necessary to score ten pin bowling games. | 2 days | Javascript | Jasmine |
   | <a href="https://github.com/robertwoolley99/GildedRoseKata">Gilded Rose Refactoring</a> | Refactoring of the classic Gilded Rose Kata | 1 day | Ruby  | Rspec |
-## <a name="Skills"></a>Skills
+## <a name="Skills"></a>Skills.
 <b>Analytical</b>
 
 I have very broad experience of problem solving - whether it is looking at identifying cost reduction opportunities, new commercial opportunities, or developing effective reporting.  Makers has let me take this to the tech sphere where I've had the challenge of being thrown in at the deep end - and learnt how to identify solutions to problems, then build them.
