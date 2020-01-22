@@ -10,7 +10,7 @@
 [Projects ](#projects) |
 [Skills ](#skills) |
 [Education ](#education) |
-[Experience ](#experience) |
+[Experience ](#experience) 
 
 </div>
 
@@ -66,7 +66,8 @@ Europe's leading programming bootcamp, teaching good practices as well as coding
 <p align="center">
 <a href="https://www.linkedin.com/in/robertwoolley/">
 <img src="./images/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
-I worked in a broad range of functions within transport and construction between 1991 and 2019.  This included:  
+I worked in a broad range of functions within transport and construction between 1991 and 2019.  This included:    
+t
 
 * Using analytical skills in engineering - basic traffic and road safety engineering at Acer Consultants Ltd between 1993 and 1995.   
 * Planning, managing and organising when working in policy development and preparation of bidding documents at Hertfordshire County Council and London Transport Buses between 1995 and 2003 along with some research - I worked on the prototype cashless bus route in London in 2001.  
