@@ -22,7 +22,7 @@ I have switched careers to software development as I want to be constantly learn
 
 I also have extensive experience within transport and the the urban/built environment with nearly 30 years experience in passenger transport, highways.  My functional experience of planning, finance, engineering, marketing and commercial is underpinned by an MBA.
 
-<b>Tech skills:</b> Ruby, Rails, Sinatra, RSpec, Capybara, Node.js, Express, HTML, CSS, JavaScript, Jest, jQuery, Jasmine, PostgreSQL
+<b>Tech skills:</b> Ruby, Rails, Sinatra, RSpec, Linux/Unix Sysadmin, Capybara, Node.js, Express, HTML, CSS, JavaScript, Jest, jQuery, Jasmine, PostgreSQL
 
 ## <a name="Projects"></a>Projects.
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
